@@ -29,6 +29,16 @@ There are **2 workflows** baked into this pipeline, one which uses signal data (
 
 ## Installation
 
+### Via Singularity
+
+Install [singularity](https://sylabs.io/guides/3.1/user-guide/installation.html)
+
+```sh
+git clone https://*
+cd fieldbioinformatics
+sudo singularity Sindgularity.def
+```
+
 ### Via conda
 
 ```sh

@@ -29,3 +29,6 @@ dist/
 CVR1/
 NRW01/
 SP1/
+
+# Singularity image
+*.sif
